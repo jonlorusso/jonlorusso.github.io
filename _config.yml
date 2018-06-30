@@ -1,0 +1,15 @@
+title: Jon Lorusso
+url: "https://jonlorusso.com"
+baseurl: "/"
+
+markdown: kramdown
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/jonlorusso"
+footer_text: "Jon Lorusso @ GitHub"
+
+sass:
+    style: compressed
+    sass_dir: _sass
