@@ -1,0 +1,53 @@
+https://keybase.io/jonlorusso
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jonlorusso.com
+  * I am jonlorusso (https://keybase.io/jonlorusso) on keybase.
+  * I have a public key ASD4daeOSOQvBDH5_m6vt89BOY_oAmggP3VY_VKLOcJHkwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120f875a78e48e42f0431f9fe6eafb7cf41398fe80268203f7558fd528b39c247930a",
+      "host": "keybase.io",
+      "kid": "0120f875a78e48e42f0431f9fe6eafb7cf41398fe80268203f7558fd528b39c247930a",
+      "uid": "b7dfe89ec50b17e30e72a9e7d70dc819",
+      "username": "jonlorusso"
+    },
+    "merkle_root": {
+      "ctime": 1532702457,
+      "hash": "2b0577629b87ccbc89ef96617da12b2725bd3b8754dcb3d03d1d0ca028e446a3862bbb208a5c24a0310febdb3d3d5122c4c690c422f16880b5f09b7b7033c13d",
+      "hash_meta": "0434711c6827575346e9014fb1e8bfcf992e12f8b452cafe406475c56046f9f1",
+      "seqno": 3344810
+    },
+    "service": {
+      "entropy": "npFRUA/u9sIVHkVRwiwk7IaB",
+      "hostname": "jonlorusso.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.3.0"
+  },
+  "ctime": 1532702471,
+  "expire_in": 504576000,
+  "prev": "ea83f5888eda118172ca66a7d8ae2f4d686405c7819e170d4fe42f0410690f81",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg+HWnjkjkLwQx+f5ur7fPQTmP6AJoID91WP1SiznCR5MKp3BheWxvYWTESpcCDcQg6oP1iI7aEYFyyman2K4vTWhkBceBnhcNT+QvBBBpD4HEIKSw3Tn95O4AFBZremdTKuJPSWHdJfAh/F5gtiuUN+ptAgHCo3NpZ8RA0C0vZQgk/Bo1OYhHtj4BEd5Rw3JLwIT7dwyWA7h6mfhoTPRyjEIv9MPkjSQRH7YFL3zJy3H1r3D0Q757SigVBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBiyLn7Tig6IkDtaJH8EEbROMl17KdKhCKikbHjk58Mto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jonlorusso
